@@ -2,6 +2,11 @@
 # 파일명은 상관 없고, 확장자가 text면 관리x
 *.test
 
+# work -> #들어간 줄은 무시
+# 파일명은 상관 없고, 확장자가 work면 관리x
+*.work
+wikim.*
+
 # History files
 .Rhistory
 .Rapp.history
